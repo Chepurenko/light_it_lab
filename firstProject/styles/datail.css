@@ -127,8 +127,7 @@ body {
 .datail__about {
   max-width: 435px;
   padding-left: 15px;
-  font-size: 18px;
-  font-family: 'Arial'; }
+  font-size: 18px; }
 
 .about__title {
   font: 32px 'MyriadPro';
@@ -254,4 +253,4 @@ body {
   .footer p {
     line-height: 50px; }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=datail.css.map */
