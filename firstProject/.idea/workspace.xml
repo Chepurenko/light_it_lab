@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c44a9087-a96a-4056-8c87-32e7b8f29bc8" name="Default" comment="&quot;rename datail page, add login page(index.html)&quot;">
-      <change afterPath="$PROJECT_DIR$/datail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/Logo_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/login-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/login.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/login.scss" afterDir="false" />
+    <list default="true" id="c44a9087-a96a-4056-8c87-32e7b8f29bc8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chepurenko_lesson2.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/datail.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/styles/datail.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/datail.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,49 +18,7 @@
     <favorites_list name="firstProject" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="datail.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/datail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="71" column="94" selection-start-line="71" selection-start-column="94" selection-end-line="71" selection-end-column="94" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="datail.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/datail.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="144" column="18" selection-start-line="144" selection-start-column="18" selection-end-line="144" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="21" column="84" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/login.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="121" column="6" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -134,6 +81,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,14 +93,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/maze-master" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
@@ -177,9 +124,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.datail.html">
     <configuration name="datail.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstProject/datail.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstProject/index.html" />
+    <list>
+      <item itemvalue="JavaScript Debug.datail.html" />
+      <item itemvalue="JavaScript Debug.index.html" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
@@ -204,7 +155,8 @@
       <workItem from="1525021864890" duration="36287000" />
       <workItem from="1525259592575" duration="706000" />
       <workItem from="1525333199358" duration="655000" />
-      <workItem from="1525337036435" duration="13096000" />
+      <workItem from="1525337036435" duration="13824000" />
+      <workItem from="1525888797668" duration="64000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;test commit + .gitignore&quot;">
       <created>1525338263827</created>
@@ -213,11 +165,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525338263827</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;rename datail page, add login page(index.html)&quot;">
+      <created>1525350318367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1525350318367</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74984000" />
+    <option name="totallyTimeSpent" value="75776000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -231,24 +190,24 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4993046" visible="true" weight="0.11318328" />
-      <window_info anchor="right" id="TODO" order="4" weight="0.32969153" />
-      <window_info anchor="bottom" id="Messages" weight="0.32998565" />
-      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993046" visible="true" weight="0.054375" />
+      <window_info anchor="right" id="TODO" order="5" weight="0.32969153" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="right" id="Event Log" order="6" side_tool="true" weight="0.32990354" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32998565" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="6" visible="true" weight="0.32998565" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.50645626" />
-      <window_info anchor="right" id="Structure" order="3" side_tool="true" weight="0.24951768" />
-      <window_info anchor="right" id="Terminal" order="5" weight="0.32990354" />
+      <window_info anchor="right" id="Version Control" order="3" side_tool="true" visible="true" weight="0.159375" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.50645626" />
+      <window_info anchor="right" id="Structure" order="4" side_tool="true" weight="0.24951768" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32855093" />
       <window_info id="Favorites" order="1" sideWeight="0.5006954" side_tool="true" weight="0.11318328" />
       <window_info anchor="right" id="Debug" order="7" weight="0.14469454" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32998565" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32998565" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,13 +316,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/datail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="21" column="84" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
+        <state relative-caret-position="965">
+          <caret line="71" column="94" selection-start-line="71" selection-start-column="94" selection-end-line="71" selection-end-column="94" />
         </state>
       </provider>
     </entry>
@@ -374,17 +330,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="21" column="84" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/styles/login.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="121" column="6" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="71" column="94" selection-start-line="71" selection-start-column="94" selection-end-line="71" selection-end-column="94" />
         </state>
       </provider>
     </entry>
