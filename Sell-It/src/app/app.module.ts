@@ -5,13 +5,17 @@ import { AppComponent } from './app.component';
 import { LoginPageComponent } from './login-page/login-page.component';
 import { DatailPageComponent } from './datail-page/datail-page.component';
 import {FooterComponent} from "./shared/components/footer/footer.component";
+import {HeaderComponent} from "./shared/components/header/header.component";
+import { ProductListComponent } from './product-list/product-list.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LoginPageComponent,
     DatailPageComponent,
-    FooterComponent
+    FooterComponent,
+    ProductListComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule
